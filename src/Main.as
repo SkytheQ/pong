@@ -9,7 +9,7 @@ package
 	
 	/**
 	 * ...
-	 * @author Erwin Henraat
+	 * @author Lisa Hendriks
 	 */
 	public class Main extends MovieClip 
 	{
